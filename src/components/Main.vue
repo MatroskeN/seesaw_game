@@ -112,7 +112,6 @@ onMounted(() => {
     FAT_CAMP.value?.push(new Fatty(bufferWeight));
     FAT_CAMP.value[i]._id = i + 1;
   }
-  console.log(FAT_CAMP.value);
 })
 </script>
 
