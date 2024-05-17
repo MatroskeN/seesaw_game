@@ -1,4 +1,4 @@
-#Seesaw_game
+# Seesaw_game
 This is a visual representation of a puzzle, in which you are have to determine which of 12 men are heavier or lighter then the 11 of others, in 3 guesses
 
 # Nuxt 3 Minimal Starter
