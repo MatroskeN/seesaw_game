@@ -1,3 +1,6 @@
+#Seesaw_game
+This is a visual representation of a puzzle, in which you are have to determine which of 12 men are heavier or lighter then the 11 of others, in 3 guesses
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -72,4 +75,4 @@ yarn preview
 bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Check out the [deployed app](https://seesaw-game.onrender.com/)
